@@ -3,10 +3,7 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>"hello microverse"</b></h3>
 
 </div>
 
@@ -59,6 +56,9 @@
 
  <a name="contributing"></a>
 
+## 🤝 Contributing <a name="contributing"></a>
+
+
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
@@ -84,6 +84,7 @@ If you like this project please support by contibuting and following my git-hub 
 I would like to thank my coding partners
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## 📝 License <a name="license"></a>
