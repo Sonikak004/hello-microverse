@@ -11,8 +11,6 @@
 </div>
 
 
-# 📗 Table of Contents
-
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
 - [💻 Getting Started](#getting-started)
@@ -23,15 +21,15 @@
 - [📝 License](#license)
 
 
-# 📖 [hello-microverse] <a name="about-project"></a>
+<a name="about-project"></a>
 
 
 
 **[hello-microverse]** is a project with no technical coding it is just to master the tools that are used to create a project
 
-## 🛠 Built With <a name="built-with"></a>
+ <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+<a name="tech-stack"></a>
 
 
 <details>
@@ -43,7 +41,7 @@
 </details>
 
 
-## 👥 Authors <a name="authors"></a>
+<a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
@@ -59,7 +57,7 @@
 
 
 
-## 🤝 Contributing <a name="contributing"></a>
+ <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
