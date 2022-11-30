@@ -3,9 +3,6 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>Microverse README Template</b></h3>
 
 </div>
@@ -58,10 +55,6 @@
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -91,8 +84,6 @@ I would like to thank my coding partners
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 📝 License <a name="license"></a>
